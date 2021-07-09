@@ -8,11 +8,11 @@ inferior ao preço médio.
 
 Exemplo de um arquivo .Txt
 
-Tv,900.00
-Mouse,50.00
-Tablet,350.50
-HD Case,80.90
-Computer,850.00
-Monitor,290.00
+Tv, 900.00
+Mouse, 50.00
+Tablet, 350.50
+HD Case, 80.90
+Computer, 850.00
+Monitor, 290.00
 
 Quando rodar o programa colocar o endereço que se encontra o arquivo acima no cosole, quando solicitado.
