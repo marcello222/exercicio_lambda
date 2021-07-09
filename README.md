@@ -15,4 +15,4 @@ HD Case, 80.90
 Computer, 850.00
 Monitor, 290.00
 
-Quando rodar o programa colocar o endereço que se encontra o arquivo acima no cosole, quando solicitado.
+Quando rodar o programa vai solicitar para inserir no console, o endereço que se encontra o arquivo acima.
